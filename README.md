@@ -24,7 +24,7 @@ The goal of this dashboard is to present key sales metrics across multiple dimen
 ##  Tools & Technologies
 
 - **Power BI** – for data visualization, DAX measures, and report creation  
-- **SQL** *(if applicable)* – for data cleaning and querying  
+- **SQL**  – for data cleaning and querying  
 - **Excel** – for raw data preparation and transformation  
 
 
